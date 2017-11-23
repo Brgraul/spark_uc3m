@@ -1,0 +1,20 @@
+.main-container{
+  display: flex;
+  justify-content: center;
+}
+
+.main-container .intro{
+    display: flex;
+    justify-content: center;
+    flex-flow: nowrap column;
+    text-align: center;
+}
+
+
+h5.text-services{
+    font-size: 18px !important;
+}
+
+.color-custom span{
+  color: rgb(30, 80, 100);
+}
